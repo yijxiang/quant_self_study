@@ -1,5 +1,5 @@
 # quant_self_study
-Quant self study
+Quant self study - aka oh my god why didn't I major in math
 
 # calculus
 - [ ] [Calc I](https://openstax.org/details/books/calculus-volume-1)
