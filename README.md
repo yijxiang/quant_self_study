@@ -4,6 +4,30 @@ Quant self study
 # books 
 - [ ] More Money Than God
 - [ ] The Little Book That Still Beats the Market
+ -[ ] Systematic Trading: A unique new method for designing trading and investing systems
+ -[ ] Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading
+ -[ ] Algorithmic and High-Frequency Trading
+ -[ ] Quantitative Trading: How to Build Your Own Algorithmic Trading Business
+ -[ ] Algorithmic Trading: Winning Strategies and Their Rationale
+ -[ ] Machine Trading: Deploying Computer Algorithms to Conquer the Markets
+ -[ ] Following the Trend: Diversified Managed Futures Trading
+ -[ ] Stocks on the Move: Beating the Market with Hedge Fund Momentum Strategies
+ -[ ] Quantitative Value: A Practitioner's Guide to Automating Intelligent Investment ...
+ -[ ] Quantitative Momentum: A Practitioner's Guide to Building a Momentum-Based Stock...
+ -[ ] Dual Momentum Investing: An Innovative Strategy for Higher Returns with Lower Risk
+ -[ ] Finding Alphas: A Quantitative Approach to Building Trading Strategies
+ -[ ] Trading and Exchanges: Market Microstructure for Practitioners
+ -[ ] Algorithmic Trading and DMA: An introduction to direct access trading strategies
+ -[ ] Volatility Trading
+ -[ ] 
+ -[ ] 
+ -[ ] 
+ -[ ] 
+ -[ ] 
+ -[ ] 
+ 
+ 
+ 
 
 
 # quant contalks
@@ -86,7 +110,12 @@ Quant self study
 - [ ] [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
 - [ ] [Python in High Performance Computing](https://www.futurelearn.com/courses/python-in-hpc)
 - [ ] [freeCodeCamp - numpy](https://www.youtube.com/watch?v=LXJOvkVYQqA)
-- [ ] []()
+- [ ] Learning Python by Mark Lutz
+- [ ] Programming Python by Mark Lutz
+- [ ] Python for Data Analysis by Wes McKinney
+- [ ] 
+- [ ] 
+- [ ] 
 
 
 # r
