@@ -1,6 +1,11 @@
 # quant_self_study
 Quant self study
 
+# calculus
+- [ ] [Calc I](https://openstax.org/details/books/calculus-volume-1)
+- [ ] [Calc II](https://openstax.org/details/books/calculus-volume-2)
+- [ ] [Calc III](https://openstax.org/details/books/calculus-volume-3)
+
 # books 
 - [ ] More Money Than God
 - [ ] The Little Book That Still Beats the Market
@@ -94,12 +99,7 @@ Quant self study
 - [ ] TensorFlow Machine Learning Projects
 - [ ] Natural Language Processing with TensorFlow
 - [ ] Deep Reinforcement Learning Hands-On
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
- 
+
  
 
 
@@ -112,10 +112,7 @@ Quant self study
 - [ ] [Data Science For Absolutely Everyone](https://www.youtube.com/watch?v=WMsr7WSAwcM)
 - [ ] [Explore Your Data and Then Let Others Do It Too Plotly Express and Dash](https://www.youtube.com/watch?v=qqWF40SAeME)
 - [ ] [Maintainable Code in Data Science](https://www.youtube.com/watch?v=KQ0LY_0Pqck)
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+
 
 # Financial Engineering
 
@@ -153,23 +150,18 @@ Quant self study
 - [ ] Data Analysis Using Regression and Multilevel/Hierarchical Models
 - [ ] Probability Theory: The Logic of Science
 - [ ] Causality: Models, Reasoning and Inference
-- [ ] 
-- [ ] 
 
 
 
-# calculus
-- [ ] [Calc I](https://openstax.org/details/books/calculus-volume-1)
-- [ ] [Calc II](https://openstax.org/details/books/calculus-volume-2)
-- [ ] [Calc III](https://openstax.org/details/books/calculus-volume-3)
-- [ ] []()
+
+
 
 
 # linear algebra
+- [ ] [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 - [ ] [Linear Algebra through Computer Science Applications: Brown](https://www.coursera.org/course/matrix)
 - [ ] [Linear Algebra - Jimm Hefferon](http://joshua.smcvt.edu/linearalgebra/)
 - [ ] [Linear Algebra - MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
-- [ ] []()
 - [ ] []()
 - [ ] []()
 
@@ -178,8 +170,7 @@ Quant self study
 - [ ] Numerical Python : Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib by Robert Johansson
 - [ ] Elegant SciPy
 - [ ] [Scipy Lecture Notes](https://scipy-lectures.org/)
-- [ ] []()
-- [ ] []()
+
 
 # matlab
 - [ ] [Advanced MATLAB for Scientific Computing](https://lagunita.stanford.edu/courses/course-v1:Engineering+AdvMATLAB+Spring2019/about)
@@ -193,10 +184,7 @@ Quant self study
 
 # data mining
 - [ ] [Stanford - CS246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/) [video](http://snap.stanford.edu/class/cs246-videos-2019/) [coursera](https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos) [lagunitas](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+
 
 # python
 - [ ] [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
@@ -218,8 +206,7 @@ Quant self study
 - [ ] Python 3 Object-oriented Programming
 - [ ] High Performance Python
 - [ ] Cython: A Guide for Python Programmers
-- [ ] 
-- [ ] 
+
 
 
 
@@ -319,10 +306,7 @@ Quant self study
 - [ ] C++ High Performance: Boost and optimize the performance of your C++17 code
 - [ ] Hands-On Design Patterns with C++
 - [ ] C++ Concurrency in Action
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+
 
 
 
@@ -335,6 +319,3 @@ Quant self study
 - [ ] High Performance MySQL
 - [ ] MySQL High Availability.
 - [ ] Paul Duvall's Continuous Integration.
-- [ ] 
-- [ ] 
-- [ ] 
