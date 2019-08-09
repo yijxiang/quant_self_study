@@ -10,20 +10,24 @@ Quant self study
 - [ ] [Statistical Inference: Johns Hopkins](https://www.coursera.org/course/statinference)
 - [ ] [Data Analysis and Statistical Inference: Duke](https://www.coursera.org/course/statistics)
 - [ ] [Probabilistic Graphical Models via Coursera](https://www.coursera.org/learn/probabilistic-graphical-models)
-- [ ] []()
+- [ ] [Allen B. Downey - Think Stats](https://greenteapress.com/wp/think-stats-2e/)
+- [ ] [Allen B. Downey - Think Bayes](http://greenteapress.com/wp/think-bayes/)
+- [ ] [Probability and Statistics](https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)
+- [ ] [Probability and Computing Lecture Notes](http://www.cs.cmu.edu/~odonnell/papers/probability-and-computing-lecture-notes.pdf)
 - [ ] []()
 
 
 # calculus
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] [Calc I](https://openstax.org/details/books/calculus-volume-1)
+- [ ] [Calc II](https://openstax.org/details/books/calculus-volume-2)
+- [ ] [Calc III](https://openstax.org/details/books/calculus-volume-3)
 - [ ] []()
 
 
 # linear algebra
 - [ ] [Linear Algebra through Computer Science Applications: Brown](https://www.coursera.org/course/matrix)
-- [ ] []()
+- [ ] [Linear Algebra - Jimm Hefferon](http://joshua.smcvt.edu/linearalgebra/)
+- [ ] [Linear Algebra - MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 - [ ] []()
 - [ ] []()
 - [ ] []()
@@ -106,6 +110,7 @@ Quant self study
 - [ ] [Machine Learning With Big Data via Coursera](https://www.coursera.org/learn/big-data-machine-learning)
 - [ ] [Machine Learning for Data Analysis via Coursera](https://www.coursera.org/learn/machine-learning-data-analysis)
 - [ ] [Machine Learning: Classification via Coursera](https://www.coursera.org/learn/ml-classification)
+- [ ] [https://functionalcs.github.io/curriculum/#sec-20](https://functionalcs.github.io/curriculum/#sec-20)
 
 # NLP
 - [ ] [Natural Language Processing: Columbia](https://www.coursera.org/course/nlangp)
