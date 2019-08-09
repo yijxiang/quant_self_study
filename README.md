@@ -5,88 +5,99 @@ Quant self study
 - [ ] More Money Than God
 - [ ] The Little Book That Still Beats the Market
 
+# quantstart articles
+- [ ] [articles](https://www.quantstart.com/articles)
+- [ ] Successful Algorithmic Trading
+- [ ] Advanced Algorithmic Trading
+- [ ] C++ For Quantitative Finance
+
+# awesome-quant
+- [ ] https://github.com/wilsonfreitas/awesome-quant
+- [ ] https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading
+
+
 # quantstart books
--[ ] Systematic Trading: A unique new method for designing trading and investing systems
--[ ] Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading
--[ ] Algorithmic and High-Frequency Trading
--[ ] Quantitative Trading: How to Build Your Own Algorithmic Trading Business
--[ ] Algorithmic Trading: Winning Strategies and Their Rationale
--[ ] Machine Trading: Deploying Computer Algorithms to Conquer the Markets
--[ ] Following the Trend: Diversified Managed Futures Trading
--[ ] Stocks on the Move: Beating the Market with Hedge Fund Momentum Strategies
--[ ] Quantitative Value: A Practitioner's Guide to Automating Intelligent Investment ...
--[ ] Quantitative Momentum: A Practitioner's Guide to Building a Momentum-Based Stock...
--[ ] Dual Momentum Investing: An Innovative Strategy for Higher Returns with Lower Risk
--[ ] Finding Alphas: A Quantitative Approach to Building Trading Strategies
--[ ] Trading and Exchanges: Market Microstructure for Practitioners
--[ ] Algorithmic Trading and DMA: An introduction to direct access trading strategies
--[ ] Volatility Trading
--[ ] Options, Futures and Other Derivatives
--[ ] A Primer For The Mathematics Of Financial Engineering
--[ ] A Linear Algebra Primer for Financial Engineering
--[ ] Paul Wilmott Introduces Quantitative Finance
--[ ] The Concepts and Practice of Mathematical Finance
--[ ] C++ Design Patterns and Derivatives Pricing
--[ ] Financial Calculus: An Introduction to Derivative Pricing
--[ ] Stochastic Calculus for Finance I: The Binomial Asset Pricing Model
--[ ] Stochastic Calculus for Finance II: Continuous-Time Models
--[ ] Arbitrage Theory in Continuous Time
--[ ] An Introduction to the Mathematics of Financial Derivatives
--[ ] Statistics and Data Analysis for Financial Engineering: with R examples
--[ ] More Mathematical Finance
--[ ] Monte Carlo Methods in Financial Engineering
--[ ] Introduction to Time Series and Forecasting
--[ ] Time Series Analysis: Forecasting and Control
--[ ] Analysis of Financial Time Series
--[ ] Multivariate Time Series Analysis: With R and Financial Applications
--[ ] Time Series Analysis
--[ ] Modelling Financial Time Series
--[ ] Time Series Analysis and Its Applications: With R Examples
--[ ] New Introduction to Multiple Time Series Analysis
--[ ] Multivariate Time Series Analysis and Applications
--[ ] Time Series: Theory and Methods
--[ ] Nonlinear Time Series Analysis
--[ ] Time Series Analysis: With Applications in R
--[ ] Introduction to Time Series Analysis and Forecasting
--[ ] Hands-On Time Series Analysis with R: Perform time series analysis and forecasti...
--[ ] Introductory Time Series with R
--[ ] Analysis of Integrated and Cointegrated Time Series with R
--[ ] Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and...
--[ ] Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-...
--[ ] An Introduction to Statistical Learning: with Applications in R
--[ ] Applied Predictive Modeling
--[ ] Bayesian Reasoning and Machine Learning
--[ ] Pattern Recognition and Machine Learning
--[ ] Machine Learning: A Probabilistic Perspective
--[ ]  The Elements of Statistical Learning: Data Mining, Inference, and Prediction
--[ ] Probabilistic Graphical Models: Principles and Techniques
--[ ] Reinforcement Learning: An Introduction
--[ ] Artificial Intelligence: A Modern Approach
--[ ] The Hundred-Page Machine Learning Book
--[ ] Introduction to Machine Learning with Python
--[ ] Hands-On Machine Learning for Algorithmic Trading
--[ ] Advances in Financial Machine Learning
--[ ] Big Data and Machine Learning in Quantitative Investment
--[ ] Machine Learning with scikit-learn Quick Start Guide
--[ ] Mastering Machine Learning Algorithms
--[ ] Machine Learning with Python Cookbook
--[ ] Large Scale Machine Learning with Python
--[ ] Deep Learning
--[ ] Fundamentals of Deep Learning
--[ ] TensorFlow for Deep Learning
--[ ] Deep Learning with TensorFlow
--[ ] Deep Learning with Python
--[ ] Introduction to Deep Learning
--[ ] Deep Learning: A Practitioner's Approach
--[ ] Deep Learning with Keras
--[ ] TensorFlow Machine Learning Projects
--[ ] Natural Language Processing with TensorFlow
--[ ] Deep Reinforcement Learning Hands-On
--[ ] 
--[ ] 
--[ ] 
--[ ] 
--[ ] 
+- [ ] Systematic Trading: A unique new method for designing trading and investing systems
+- [ ] Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading
+- [ ] Algorithmic and High-Frequency Trading
+- [ ] Quantitative Trading: How to Build Your Own Algorithmic Trading Business
+- [ ] Algorithmic Trading: Winning Strategies and Their Rationale
+- [ ] Machine Trading: Deploying Computer Algorithms to Conquer the Markets
+- [ ] Following the Trend: Diversified Managed Futures Trading
+- [ ] Stocks on the Move: Beating the Market with Hedge Fund Momentum Strategies
+- [ ] Quantitative Value: A Practitioner's Guide to Automating Intelligent Investment ...
+- [ ] Quantitative Momentum: A Practitioner's Guide to Building a Momentum-Based Stock...
+- [ ] Dual Momentum Investing: An Innovative Strategy for Higher Returns with Lower Risk
+- [ ] Finding Alphas: A Quantitative Approach to Building Trading Strategies
+- [ ] Trading and Exchanges: Market Microstructure for Practitioners
+- [ ] Algorithmic Trading and DMA: An introduction to direct access trading strategies
+- [ ] Volatility Trading
+- [ ] Options, Futures and Other Derivatives
+- [ ] A Primer For The Mathematics Of Financial Engineering
+- [ ] A Linear Algebra Primer for Financial Engineering
+- [ ] Paul Wilmott Introduces Quantitative Finance
+- [ ] The Concepts and Practice of Mathematical Finance
+- [ ] C++ Design Patterns and Derivatives Pricing
+- [ ] Financial Calculus: An Introduction to Derivative Pricing
+- [ ] Stochastic Calculus for Finance I: The Binomial Asset Pricing Model
+- [ ] Stochastic Calculus for Finance II: Continuous-Time Models
+- [ ] Arbitrage Theory in Continuous Time
+- [ ] An Introduction to the Mathematics of Financial Derivatives
+- [ ] Statistics and Data Analysis for Financial Engineering: with R examples
+- [ ] More Mathematical Finance
+- [ ] Monte Carlo Methods in Financial Engineering
+- [ ] Introduction to Time Series and Forecasting
+- [ ] Time Series Analysis: Forecasting and Control
+- [ ] Analysis of Financial Time Series
+- [ ] Multivariate Time Series Analysis: With R and Financial Applications
+- [ ] Time Series Analysis
+- [ ] Modelling Financial Time Series
+- [ ] Time Series Analysis and Its Applications: With R Examples
+- [ ] New Introduction to Multiple Time Series Analysis
+- [ ] Multivariate Time Series Analysis and Applications
+- [ ] Time Series: Theory and Methods
+- [ ] Nonlinear Time Series Analysis
+- [ ] Time Series Analysis: With Applications in R
+- [ ] Introduction to Time Series Analysis and Forecasting
+- [ ] Hands-On Time Series Analysis with R: Perform time series analysis and forecasti...
+- [ ] Introductory Time Series with R
+- [ ] Analysis of Integrated and Cointegrated Time Series with R
+- [ ] Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and...
+- [ ] Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-...
+- [ ] An Introduction to Statistical Learning: with Applications in R
+- [ ] Applied Predictive Modeling
+- [ ] Bayesian Reasoning and Machine Learning
+- [ ] Pattern Recognition and Machine Learning
+- [ ] Machine Learning: A Probabilistic Perspective
+- [ ]  The Elements of Statistical Learning: Data Mining, Inference, and Prediction
+- [ ] Probabilistic Graphical Models: Principles and Techniques
+- [ ] Reinforcement Learning: An Introduction
+- [ ] Artificial Intelligence: A Modern Approach
+- [ ] The Hundred-Page Machine Learning Book
+- [ ] Introduction to Machine Learning with Python
+- [ ] Hands-On Machine Learning for Algorithmic Trading
+- [ ] Advances in Financial Machine Learning
+- [ ] Big Data and Machine Learning in Quantitative Investment
+- [ ] Machine Learning with scikit-learn Quick Start Guide
+- [ ] Mastering Machine Learning Algorithms
+- [ ] Machine Learning with Python Cookbook
+- [ ] Large Scale Machine Learning with Python
+- [ ] Deep Learning
+- [ ] Fundamentals of Deep Learning
+- [ ] TensorFlow for Deep Learning
+- [ ] Deep Learning with TensorFlow
+- [ ] Deep Learning with Python
+- [ ] Introduction to Deep Learning
+- [ ] Deep Learning: A Practitioner's Approach
+- [ ] Deep Learning with Keras
+- [ ] TensorFlow Machine Learning Projects
+- [ ] Natural Language Processing with TensorFlow
+- [ ] Deep Reinforcement Learning Hands-On
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
  
  
 
@@ -104,6 +115,9 @@ Quant self study
 - [ ] []()
 - [ ] []()
 - [ ] []()
+
+# Financial Engineering
+
 
 
 # statistics
@@ -255,6 +269,15 @@ Quant self study
 - [ ] [Communicating Data Science Results](https://www.coursera.org/learn/data-results)
 - [ ] [Reproducible Research](https://www.coursera.org/learn/reproducible-research)
 
+# Monte Carlo Methods
+
+
+# Finite Difference Methods
+
+# Numerical Analysis
+
+# Probability
+
 # ML 
 
 - [ ] [Machine Learning: Stanford](https://www.coursera.org/course/ml)
@@ -273,3 +296,42 @@ Quant self study
 - [ ] [A Deep Dive into NLP with PyTorch](https://www.youtube.com/watch?v=4jROlXH9Nvc)
 - [ ] [Natural Language Processing: Columbia](https://www.coursera.org/course/nlangp)
 - [ ] [Natural Language Processing: Stanford](http://see.stanford.edu/see/courseinfo.aspx?coll=63480b48-8819-4efd-8412-263f1a472f5a)
+
+# C++
+- [ ] Accelerated C++ by Andrew Koenig
+- [ ] Effective C++ by Scott Meyers
+- [ ] More Effective C++ by Scott Meyers
+- [ ] Effective STL by Scott Meyers
+- [ ] Gang of Four Design Patterns
+- [ ] C++ in One Hour a Day
+- [ ] The C++ Programming Language
+- [ ] Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14
+- [ ] A Tour of C++
+- [ ] Accelerated C++: Practical Programming by Example
+- [ ] The C++ Standard Library: A Tutorial and Reference
+- [ ] Modern C++ Design: Generic Programming and Design Patterns Applied
+- [ ] Beginning C++17: From Novice to Professional
+- [ ] Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Progr...
+- [ ] C++17 STL Cookbook
+- [ ] C++ High Performance: Boost and optimize the performance of your C++17 code
+- [ ] Hands-On Design Patterns with C++
+- [ ] C++ Concurrency in Action
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+
+
+
+# Misc
+- [ ] Steve McConnell's Code Complete
+- [ ] Robert Martin's Clean Code
+- [ ] Cory House Clean Code PluralSight
+- [ ] Learning SQL by Alan Beaulieu
+- [ ] O'Reilly SQL Cookbook
+- [ ] High Performance MySQL
+- [ ] MySQL High Availability.
+- [ ] Paul Duvall's Continuous Integration.
+- [ ] 
+- [ ] 
+- [ ] 
