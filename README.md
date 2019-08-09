@@ -4,28 +4,89 @@ Quant self study
 # books 
 - [ ] More Money Than God
 - [ ] The Little Book That Still Beats the Market
- -[ ] Systematic Trading: A unique new method for designing trading and investing systems
- -[ ] Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading
- -[ ] Algorithmic and High-Frequency Trading
- -[ ] Quantitative Trading: How to Build Your Own Algorithmic Trading Business
- -[ ] Algorithmic Trading: Winning Strategies and Their Rationale
- -[ ] Machine Trading: Deploying Computer Algorithms to Conquer the Markets
- -[ ] Following the Trend: Diversified Managed Futures Trading
- -[ ] Stocks on the Move: Beating the Market with Hedge Fund Momentum Strategies
- -[ ] Quantitative Value: A Practitioner's Guide to Automating Intelligent Investment ...
- -[ ] Quantitative Momentum: A Practitioner's Guide to Building a Momentum-Based Stock...
- -[ ] Dual Momentum Investing: An Innovative Strategy for Higher Returns with Lower Risk
- -[ ] Finding Alphas: A Quantitative Approach to Building Trading Strategies
- -[ ] Trading and Exchanges: Market Microstructure for Practitioners
- -[ ] Algorithmic Trading and DMA: An introduction to direct access trading strategies
- -[ ] Volatility Trading
- -[ ] 
- -[ ] 
- -[ ] 
- -[ ] 
- -[ ] 
- -[ ] 
- 
+
+# quantstart books
+-[ ] Systematic Trading: A unique new method for designing trading and investing systems
+-[ ] Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading
+-[ ] Algorithmic and High-Frequency Trading
+-[ ] Quantitative Trading: How to Build Your Own Algorithmic Trading Business
+-[ ] Algorithmic Trading: Winning Strategies and Their Rationale
+-[ ] Machine Trading: Deploying Computer Algorithms to Conquer the Markets
+-[ ] Following the Trend: Diversified Managed Futures Trading
+-[ ] Stocks on the Move: Beating the Market with Hedge Fund Momentum Strategies
+-[ ] Quantitative Value: A Practitioner's Guide to Automating Intelligent Investment ...
+-[ ] Quantitative Momentum: A Practitioner's Guide to Building a Momentum-Based Stock...
+-[ ] Dual Momentum Investing: An Innovative Strategy for Higher Returns with Lower Risk
+-[ ] Finding Alphas: A Quantitative Approach to Building Trading Strategies
+-[ ] Trading and Exchanges: Market Microstructure for Practitioners
+-[ ] Algorithmic Trading and DMA: An introduction to direct access trading strategies
+-[ ] Volatility Trading
+-[ ] Options, Futures and Other Derivatives
+-[ ] A Primer For The Mathematics Of Financial Engineering
+-[ ] A Linear Algebra Primer for Financial Engineering
+-[ ] Paul Wilmott Introduces Quantitative Finance
+-[ ] The Concepts and Practice of Mathematical Finance
+-[ ] C++ Design Patterns and Derivatives Pricing
+-[ ] Financial Calculus: An Introduction to Derivative Pricing
+-[ ] Stochastic Calculus for Finance I: The Binomial Asset Pricing Model
+-[ ] Stochastic Calculus for Finance II: Continuous-Time Models
+-[ ] Arbitrage Theory in Continuous Time
+-[ ] An Introduction to the Mathematics of Financial Derivatives
+-[ ] Statistics and Data Analysis for Financial Engineering: with R examples
+-[ ] More Mathematical Finance
+-[ ] Monte Carlo Methods in Financial Engineering
+-[ ] Introduction to Time Series and Forecasting
+-[ ] Time Series Analysis: Forecasting and Control
+-[ ] Analysis of Financial Time Series
+-[ ] Multivariate Time Series Analysis: With R and Financial Applications
+-[ ] Time Series Analysis
+-[ ] Modelling Financial Time Series
+-[ ] Time Series Analysis and Its Applications: With R Examples
+-[ ] New Introduction to Multiple Time Series Analysis
+-[ ] Multivariate Time Series Analysis and Applications
+-[ ] Time Series: Theory and Methods
+-[ ] Nonlinear Time Series Analysis
+-[ ] Time Series Analysis: With Applications in R
+-[ ] Introduction to Time Series Analysis and Forecasting
+-[ ] Hands-On Time Series Analysis with R: Perform time series analysis and forecasti...
+-[ ] Introductory Time Series with R
+-[ ] Analysis of Integrated and Cointegrated Time Series with R
+-[ ] Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and...
+-[ ] Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-...
+-[ ] An Introduction to Statistical Learning: with Applications in R
+-[ ] Applied Predictive Modeling
+-[ ] Bayesian Reasoning and Machine Learning
+-[ ] Pattern Recognition and Machine Learning
+-[ ] Machine Learning: A Probabilistic Perspective
+-[ ]  The Elements of Statistical Learning: Data Mining, Inference, and Prediction
+-[ ] Probabilistic Graphical Models: Principles and Techniques
+-[ ] Reinforcement Learning: An Introduction
+-[ ] Artificial Intelligence: A Modern Approach
+-[ ] The Hundred-Page Machine Learning Book
+-[ ] Introduction to Machine Learning with Python
+-[ ] Hands-On Machine Learning for Algorithmic Trading
+-[ ] Advances in Financial Machine Learning
+-[ ] Big Data and Machine Learning in Quantitative Investment
+-[ ] Machine Learning with scikit-learn Quick Start Guide
+-[ ] Mastering Machine Learning Algorithms
+-[ ] Machine Learning with Python Cookbook
+-[ ] Large Scale Machine Learning with Python
+-[ ] Deep Learning
+-[ ] Fundamentals of Deep Learning
+-[ ] TensorFlow for Deep Learning
+-[ ] Deep Learning with TensorFlow
+-[ ] Deep Learning with Python
+-[ ] Introduction to Deep Learning
+-[ ] Deep Learning: A Practitioner's Approach
+-[ ] Deep Learning with Keras
+-[ ] TensorFlow Machine Learning Projects
+-[ ] Natural Language Processing with TensorFlow
+-[ ] Deep Reinforcement Learning Hands-On
+-[ ] 
+-[ ] 
+-[ ] 
+-[ ] 
+-[ ] 
  
  
 
@@ -59,11 +120,25 @@ Quant self study
 - [ ] [Probability and Statistics](https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)
 - [ ] [Probability and Computing Lecture Notes](http://www.cs.cmu.edu/~odonnell/papers/probability-and-computing-lecture-notes.pdf)
 - [ ] [Bayesian Statistics: Techniques and Models](https://www.coursera.org/learn/mcmc-bayesian-statistics)
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [ ] Schaum's Outline of Probability and Statistics
+- [ ]  Introduction to Probability
+- [ ] A First Course in Probability
+- [ ] Introduction to Probability, Statistics, and Random Processes
+- [ ] Statistical Inference
+- [ ] All of Statistics
+- [ ] Statistics Done Wrong
+- [ ] Bayesian Statistics the Fun Way
+- [ ] A Student’s Guide to Bayesian Statistics
+- [ ] Think Bayes
+- [ ] Doing Bayesian Data Analysis
+- [ ] Bayesian Statistics: An Introduction
+- [ ] Bayesian Data Analysis
+- [ ] Data Analysis Using Regression and Multilevel/Hierarchical Models
+- [ ] Probability Theory: The Logic of Science
+- [ ] Causality: Models, Reasoning and Inference
+- [ ] 
+- [ ] 
+
 
 
 # calculus
@@ -113,9 +188,23 @@ Quant self study
 - [ ] Learning Python by Mark Lutz
 - [ ] Programming Python by Mark Lutz
 - [ ] Python for Data Analysis by Wes McKinney
+- [ ] Learn Python 3 the Hard Way
+- [ ] Python Crash Course
+- [ ] Automate the Boring Stuff with Python
+- [ ] Think Python: How to Think Like a Computer Scientist
+- [ ] Learning Python
+- [ ] Programming Python
+- [ ] Python Cookbook
+- [ ] Fluent Python
+- [ ] Effective Python
+- [ ] Expert Python Programming
+- [ ] Python 3 Object-oriented Programming
+- [ ] High Performance Python
+- [ ] Cython: A Guide for Python Programmers
 - [ ] 
 - [ ] 
-- [ ] 
+
+
 
 
 # r
