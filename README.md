@@ -4,6 +4,7 @@ Quant self study
 # books 
 - [ ] More Money Than God
 - [ ] The Little Book That Still Beats the Market
+- [ ] Frequently Asked Questions in Quantitative Finance - Paul Wilmott
 
 # quantstart articles
 - [ ] [articles](https://www.quantstart.com/articles)
@@ -123,7 +124,9 @@ Quant self study
 # statistics
 - [ ] [OpenStax - Statistics](https://openstax.org/details/books/introductory-statistics)
 - [ ] [OpenStax - Business Statistics](https://openstax.org/details/books/introductory-business-statistics)
+- [ ] [Stanford - Probability and Statistics](https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/about)
 - [ ] [Probability and Statistics - UC Berkeley]()
+- [ ] [Stanford - Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 - [ ] [Statistics and Probability: Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [ ] [Probabilistic Systems Analysis and Applied Probability: MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/index.htm)
 - [ ] [Statistical Inference: Johns Hopkins](https://www.coursera.org/course/statinference)
