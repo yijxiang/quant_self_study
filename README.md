@@ -189,7 +189,7 @@ Quant self study
 - [ ] [A Deep Introduction to Julia for Data Science and Scientific Computing](http://ucidatascienceinitiative.github.io/IntroToJulia/)
 
 # data mining
-- [ ] []()
+- [ ] [Stanford - CS246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/) [video](http://snap.stanford.edu/class/cs246-videos-2019/) [coursera](https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos) [lagunitas](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
 - [ ] []()
 - [ ] []()
 - [ ] []()
