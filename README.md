@@ -9,6 +9,8 @@ Quant self study
 - [ ] Khan Academy - AP®︎ Calculus BC
 - [ ] Khan Academy - Calculus 1
 - [ ] Khan Academy - Calculus 2
+- [ ] [https://mooculus.osu.edu/](https://mooculus.osu.edu/) & [textbook](https://mooculus.osu.edu/textbook/mooculus.pdf)
+- [ ] [MIT - Calculus](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
 - [ ] [OpenStax - Calc II](https://openstax.org/details/books/calculus-volume-2)
 - [ ] Khan Academy - Multivariable Calculus
 - [ ] Khan Academy - Differential equations
