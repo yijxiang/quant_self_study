@@ -2,17 +2,17 @@
 Quant self study
 
 # calculus
-- [ ] [Calc I](https://openstax.org/details/books/calculus-volume-1)
+- [ ] [OpenStax - Calc I](https://openstax.org/details/books/calculus-volume-1)
 - [ ] Khan Academy - Differential Calculus
 - [ ] Khan Academy - Integral Calculus
 - [ ] Khan Academy - AP®︎ Calculus AB
 - [ ] Khan Academy - AP®︎ Calculus BC
 - [ ] Khan Academy - Calculus 1
 - [ ] Khan Academy - Calculus 2
-- [ ] [Calc II](https://openstax.org/details/books/calculus-volume-2)
+- [ ] [OpenStax - Calc II](https://openstax.org/details/books/calculus-volume-2)
 - [ ] Khan Academy - Multivariable Calculus
 - [ ] Khan Academy - Differential equations
-- [ ] [Calc III](https://openstax.org/details/books/calculus-volume-3)
+- [ ] [OpenStax - Calc III](https://openstax.org/details/books/calculus-volume-3)
 
 # books 
 - [ ] More Money Than God
