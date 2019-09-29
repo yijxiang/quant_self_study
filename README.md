@@ -222,7 +222,8 @@ Quant self study
 
 
 # r
-- [ ] [Introduction to R for Data Science via edX]()
+- [ ] [Introduction to R for Data Science via edX](https://www.edx.org/course/introduction-to-r-for-data-science-4)
+- [ ] [R Programming Tutorial - Learn the Basics of Statistical Computing - freeCodeCamp](https://www.youtube.com/watch?v=_V8eKsto3Ug)
 - [ ] [R Programming via Coursera](https://www.coursera.org/learn/r-programming)
 - [ ] [Introduction to Neurohacking In R via Coursera](https://www.coursera.org/learn/neurohacking)
 - [ ] [Statistics with R Capstone](https://www.coursera.org/learn/statistics-project)
@@ -238,8 +239,8 @@ Quant self study
 
 # Data
 ## Science
-- [ ] [Introduction to computing and data science - MITx
-- [ ] [Introduction to Data Science - Washington
+- [ ] [Introduction to computing and data science - MITx]()
+- [ ] [Introduction to Data Science - Washington]()
 - [ ] [Data Science Essentials via edX](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x)
 - [ ] [Introduction to Python for Data Science via edX](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-2)
 - [ ] [Introduction to R for Data Science via edX](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-1)
